@@ -12,7 +12,6 @@
 		E3699CA226FA2BA400EE4AA5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3699CA126FA2BA400EE4AA5 /* ViewController.swift */; };
 		E3699CA726FA2BA700EE4AA5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3699CA626FA2BA700EE4AA5 /* Assets.xcassets */; };
 		E3699CAA26FA2BA700EE4AA5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3699CA826FA2BA700EE4AA5 /* LaunchScreen.storyboard */; };
-		E3699CB226FA368C00EE4AA5 /* UIView+Pin.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3699CB126FA368B00EE4AA5 /* UIView+Pin.swift */; };
 		E3699CB426FA4E1300EE4AA5 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3699CB326FA4E1300EE4AA5 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -24,7 +23,6 @@
 		E3699CA626FA2BA700EE4AA5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E3699CA926FA2BA700EE4AA5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E3699CAB26FA2BA700EE4AA5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E3699CB126FA368B00EE4AA5 /* UIView+Pin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIView+Pin.swift"; path = "../../../UIView+Pin.swift"; sourceTree = "<group>"; };
 		E3699CB326FA4E1300EE4AA5 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,7 +59,6 @@
 				E3699C9D26FA2BA400EE4AA5 /* AppDelegate.swift */,
 				E3699C9F26FA2BA400EE4AA5 /* SceneDelegate.swift */,
 				E3699CA126FA2BA400EE4AA5 /* ViewController.swift */,
-				E3699CB126FA368B00EE4AA5 /* UIView+Pin.swift */,
 				E3699CA626FA2BA700EE4AA5 /* Assets.xcassets */,
 				E3699CA826FA2BA700EE4AA5 /* LaunchScreen.storyboard */,
 				E3699CAB26FA2BA700EE4AA5 /* Info.plist */,
@@ -141,7 +138,6 @@
 			files = (
 				E3699CA226FA2BA400EE4AA5 /* ViewController.swift in Sources */,
 				E3699C9E26FA2BA400EE4AA5 /* AppDelegate.swift in Sources */,
-				E3699CB226FA368C00EE4AA5 /* UIView+Pin.swift in Sources */,
 				E3699CB426FA4E1300EE4AA5 /* SettingsViewController.swift in Sources */,
 				E3699CA026FA2BA400EE4AA5 /* SceneDelegate.swift in Sources */,
 			);
